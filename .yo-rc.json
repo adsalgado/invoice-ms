@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "mx.com.sadead.store.invoice",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "microservice",
+    "baseName": "invoice",
+    "packageName": "mx.com.sadead.store.invoice",
+    "packageFolder": "mx/com/sadead/store/invoice",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NThhN2Y1NTNiOGY5NzUzNTQzYzVkOWVlNjQ5NmZiMTE1ZGFmYjU4NTg4OTlhZWQ1YWYzODZmMzhiYjNmYzVmZWRiYWNiYjcxOTYyOWRhY2Q2ZTU0NWY3NDljNDFlMjdkMTdhNmZkNTViODgzNTQwMGQwYjM0MzQyYjQxZmEwMWM=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
