@@ -59,5 +59,6 @@
     "jpaMetamodelFiltering": false,
     "fluentMethods": true,
     "clientRootFolder": "invoice",
-    "applications": "*"
+    "applications": "*",
+    "microserviceName": "Invoice"
 }
